@@ -7,9 +7,10 @@ A simple Windows context menu extension to copy the full path of any file or fol
 ### 📂 Repository Structure
 
 ```
-BetterCopyPath/
+BetterCopyAsPath/
 │
 ├── README.md
+├── LICENSE
 ├── install_RUN_AS_ADMIN.bat
 ├── uninstall_RUN_AS_ADMIN.bat
 │
@@ -27,7 +28,7 @@ BetterCopyPath/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/BetterCopyPath.git
+git clone https://github.com/AleksandarOvcharov/BetterCopyAsPath.git
 ```
 
 Or, download the ZIP file and extract it.
